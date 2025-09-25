@@ -25,7 +25,7 @@
 
 
 ## 🧰 빌드 사용 프로그램 목록
-- **Python 3.11+** (워크플로/스크립트
+- **Python 3.11+** (워크플로/스크립트)
 - **Pipeline**: ComfyUI ↔ FastAPI(All)
 - **Front**: React + Vite
 - **Backend**: FastAPI + MariaDB

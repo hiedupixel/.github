@@ -44,13 +44,6 @@
 
 
 
-| 이름 | 역할 | 담당 | 연락 |
-|---|---|---|---|
-| 양정원 | 팀장 / PM | FB/BE/GIthub repositories관리 / 배포일정관리 | @Yangjeongwon1133 |
-| 이정현 | 팀원 | FB/BE/사용 모델 테스트/결함관리 | @junghyun3369 |
-
-
-
 
 
 

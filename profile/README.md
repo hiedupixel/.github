@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">하이미디어아카데미 생성형 AI활용 멀티미디어컨텐츠 전문가 양성 과정</h1>
-<p align="center"><sub>TEAM PIXEL : PROJECT GEN AI · THUMBNAIL GENERATE PROGRAM</sub></p>
+<p align="center"><sub>TEAM PIXEL : PROJECT GEN AI · IMAGE GENERATE PROGRAM</sub></p>
 
 
 ---

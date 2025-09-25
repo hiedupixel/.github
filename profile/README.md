@@ -4,7 +4,7 @@
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c2a3dfa2-3779-4d05-ab31-249d21aa8a18" />
 </p>
 
-<h1 align="center">하이미디어아카데미 생성형 AI활용 멀티미디어컨텐츠 전문가 양성 과정</h1>
+<h1 align="center">PIXEL</h1>
 <p align="center"><sub>TEAM PIXEL : PROJECT GEN AI · IMAGE GENERATE PROGRAM</sub></p>
 
 
